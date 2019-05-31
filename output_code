@@ -1,0 +1,9 @@
+move (1,2)
+move (1,2)
+pick
+drop
+move&pick (3,4)
+move&drop (1,2)
+move (1,2)
+move&pick (3,4)
+pick
